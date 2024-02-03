@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>www.bofavalve.com</ShortName>
+	<Description>Search in site www.bofavalve.com</Description>
+	<Url type="text/html" method="get" template="http://bofavalve.local/search.html">
+		<Param name="opensearch" value="1"/>
+		<Param name="q" value="{searchTerms}"/>
+	</Url>
+	<Image width="16" height="16">https://img.jeawincdn.com/resource/upfiles/95/images/logo/bofa-valve-logo.png</Image>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>http://bofavalve.local/search.html</moz:SearchForm>
+</OpenSearchDescription>

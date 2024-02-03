@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://bofavalve.local/sitemap.xml

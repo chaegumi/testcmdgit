@@ -1,0 +1,12 @@
+{
+						"short_name": "bofavalve",
+						"name": "www.bofavalve.com",
+						"icons": [{
+							"src": "http://img.jeawin.local/resource/upfiles/95/images/logo\resize\4f0eef40721de0c8d59c7d9e892ee2ca\bofa-valve-logo-192x192.webp",
+							"type": "image/png",
+							"sizes": "192x192"
+						}],
+						"start_url": "http://bofavalve.local/",
+						"background_color": "#3367D6",
+						"theme_color": "#3367D6"
+					}
