@@ -5,7 +5,8 @@
 		{
 		"src": "http://img.jeawin.local/resource/upfiles/95/images/logo\resize\4f0eef40721de0c8d59c7d9e892ee2ca\bofa-valve-logo-192x192.webp",
 		"type": "image/png",
-		"sizes": "192x192"
+		"sizes": "192x192",
+		"purpose": "any maskable"
 		},
 		{
 		"src": "http://img.jeawin.local/resource/upfiles/95/images/logo\resize\4f0eef40721de0c8d59c7d9e892ee2ca\bofa-valve-logo-512x512.webp",
